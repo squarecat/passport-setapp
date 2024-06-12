@@ -1,7 +1,7 @@
 {
-  "name": "@leavemealone-app/passport-setapp",
-  "version": "1.0.1",
-  "repository": "git@github.com:leavemealone-app/passport-setapp.git",
+  "name": "passport-setapp",
+  "version": "1.0.0",
+  "repository": "git@github.com:squarecat/passport-setapp.git",
   "author": "James Ivings <james@squarecat.io>",
   "license": "MIT",
   "main": "lib/passport-setapp/index",
@@ -9,5 +9,11 @@
     "form-data": "^4.0.0",
     "node-fetch": "2",
     "passport-oauth": "^1.0.0"
-  }
+  },
+  "keywords": [
+    "passport",
+    "passport-strategy",
+    "authentication",
+    "setapp"
+  ]
 }
