@@ -1,6 +1,6 @@
 {
   "name": "passport-setapp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "git@github.com:squarecat/passport-setapp.git",
   "author": "James Ivings <james@squarecat.io>",
   "license": "MIT",
